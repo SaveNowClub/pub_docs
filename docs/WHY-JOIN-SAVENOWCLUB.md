@@ -1,30 +1,18 @@
 [TOC]
 
-Here are how SaveNowClub help you:
+Here are how SaveNowClub will help you:
 
 # Manage Your Knowledge Base
 
 In the age of Artificial Intelligence, you need an AI-enabled tool to help manage your knowledge base at a faster speed, at the same time, producing better-quality outcome than before.  Your needs to manage your knowledge base with more convenience and higher expected outcome can be satisfied by SaveNowClub's [Timeline](/timeline).
 
-## Follow Good Predictors
+## One-click Add Content to Your Knowledge Base
 
-Quicly build timeline of facts / predictions under theme of uncertainty by saving web articles from any source you have access to using [bookmarklet](/docs/2889/howto-timeline-of-uncertainties#use-bookmarklet-to-quickly-save-timeline-item).  
+Quicly build timeline of facts / predictions under certain topic by saving web articles from any source you have access to using [bookmarklet](/docs/2889/howto-timeline#use-bookmarklet-to-quickly-save-timeline-item).  
 
-Use facts to backtest predictions, use backtest results to build track records for experts. 
+## Focus on Topics
 
-Use predictions from experts with good track record of prediction accuracy as reference to form your own prediction on the uncertainty.
-
-## Focus on Uncertainty
-
-Organize predictions / facts under uncertainty themes you care about using [parent chooser](/docs/2889/howto-timeline-of-uncertainties#use-parent-chooser-to-quickly-organize-saved-timeline-item) so that you can focus on the uncertainty itself to come up with your own prediction without being distracted by other predictions.
-
-## Use Indicators
-
-Use [indicators](/timeline/hashtag/indicator) you know of to identify early signals of peak or bottom.
-
-## Use Breakouts
-
-Use upside or downside [breakouts](/timeline/hashtag/breakout) of trading channel as entry signals for a trade.
+Organize your knowledge base contents under topics you care about using [parent chooser](/docs/2889/howto-timeline#use-parent-chooser-to-quickly-organize-saved-timeline-item) so that saved contents in your knowledge base is well organized and can be easily retrieved later when you need it.
 
 # Research Price
 
