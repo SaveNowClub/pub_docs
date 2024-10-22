@@ -4,11 +4,11 @@ This repository includes public documents for [SaveNowClub](https://savenowclub.
 
 # About Us
 
-The website [SaveNowClub](https://savenowclub.com) was officially launched in 2020, it was a result of multiple pivots and product launches we did in previous years.  Since then we pivoted a few more times and ended up with two main online tool offerings: Timelines of Uncertainties and Price Research Tools.  Below are a few software tools offered by SaveNowClub.com:
+The website [SaveNowClub](https://savenowclub.com) was officially launched in 2020, it was a result of multiple pivots and product launches we did in previous years.  Since then we pivoted a few more times and ended up with two main online tool offerings: Timelines and Price Research Tools.  Below are a few software tools offered by SaveNowClub.com:
 
-## Timeline of Uncertainties
+## Timeline
 
-[Timeline of Uncertainties](/timeline) is a tool that helps people better predict outcome of uncertainties by focusing on the uncertainty you care about while keeping track what happened, what are happening, what were predicted to happen, and how accurate those predictions turn out to be around that uncertainty.  The tool solves the problem of how to focus one's attention on the uncertainty itself without losing track of what others have predicted and what facts have happened around that uncertainty.  The tool allows users to
+[Timeline](/timeline) is a tool that helps people to manage knowledge base with the vision of adding knowledge in any form with one click and empowering user to quickly absorb and organize the added knowledge.  As of October 2024, the tool solves the problems of enabling user to add link or content with one click to knowledge base and organizing saved contents under user-defined topics.  The tool allows users to
 
 1. [quickly save articles](/docs/2889/howto-timeline-of-uncertainties#use-bookmarklet-to-quickly-save-timeline-item) that are relevant to the uncertainty you care about; 
 1. [quickly categorize saved articles](/docs/2889/howto-timeline-of-uncertainties#use-parent-chooser-to-quickly-organize-saved-timeline-item) under relevant uncertainty/theme; 
