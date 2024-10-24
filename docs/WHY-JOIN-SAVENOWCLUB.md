@@ -2,17 +2,25 @@
 
 Here are how SaveNowClub will help you:
 
-# Manage Your Knowledge Base
+# Manage My Knowledge Base
 
 In the age of Artificial Intelligence, you need an AI-enabled tool to help manage your knowledge base at a faster speed, at the same time, producing better-quality outcome than before.  Your needs to manage your knowledge base with more convenience and higher expected outcome can be satisfied by SaveNowClub's [Timeline](/timeline).
 
-## One-click Add Content to Your Knowledge Base
+## One-Click Add Content
 
-Quicly build timeline of facts / predictions under certain topic by saving web articles from any source you have access to using [bookmarklet](/docs/2889/howto-timeline#use-bookmarklet-to-quickly-save-timeline-item).  
+Quickly build timeline of facts / predictions under certain topic by saving web articles from any source you have access to using [bookmarklet](/docs/2889/howto-timeline#how-to-use-bookmarklet).  
 
-## Focus on Topics
+## Organized by Topics
 
-Organize your knowledge base contents under topics you care about using [parent chooser](/docs/2889/howto-timeline#use-parent-chooser-to-quickly-organize-saved-timeline-item) so that saved contents in your knowledge base is well organized and can be easily retrieved later when you need it.
+Organize your knowledge base contents under topics you care about using [parent chooser](/docs/2889/howto-timeline#how-to-use-parent-chooser) so that saved contents in your knowledge base is well organized and can be easily retrieved later when you need it.
+
+## Full Text Archived
+
+Permanently archive full text of your KB articles.
+
+## AI-Generated Summary
+
+Automatically summarize your KB articles using up-to-date AI technology.
 
 # Research Price
 
