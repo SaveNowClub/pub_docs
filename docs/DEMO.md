@@ -6,7 +6,7 @@ Below you can find a simple tutorial of how to use Email Buyer Agent for your ca
 
 ## Step 1: Create a Buying Project
 
-If you don't have an account yet, click [create an account](https://savenowclub.com/projects/show-form/start-project) using a personal email address (in this tutorial I use `buytition.car@gmail.com`) and use it to [sign in](https://savenowclub.com/web/dist/signin) to SaveNowClub.  If you have not verified your personal email yet, then click `Reset Password` button to verify it.
+If you don't have an account yet, click [create an account](https://savenowclub.com/projects/show-form/start-project) using a personal email address (in this tutorial I use `buytition.car@gmail.com`) and use it to [sign in](https://savenowclub.com/login) to SaveNowClub.  If you have not verified your personal email yet, then click `Reset Password` button to verify it.
 
 <img src="https://github.com/Buytition/pub_docs/raw/master/images/VBA-tutorials/sign-in-to-buytition.png" title="sign in to buytition" style="max-width:100%">
 

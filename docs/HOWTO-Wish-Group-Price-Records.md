@@ -119,7 +119,7 @@ After you purchase Buyer Broker Package, you will receive two parts: private inf
 
 Here are the steps:
 
-* If you have not done so, [register an account](https://savenowclub.com/web/dist/signup) and verify your email address.
+* If you have not done so, [register an account](https://savenowclub.com/signup) and verify your email address.
 * Purchase the Buyer Broker Package from a listed price record.
 * Share with us necessary information for us to beat your deal.  You may start doing this by clicking `Replicate This Deal` button of the purchased price record to create a Buying Project
     * Show us your current best deal by Add a Listing to the Buying Project you created.
