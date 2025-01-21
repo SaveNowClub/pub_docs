@@ -13,7 +13,7 @@ Other than common bookmarking site features, SaveNowClub Timeline offers the fol
 
 SaveNowClub uses bookmarklets for bookmarking web content. Bookmarklets are little javascript links that live in the bookmarks toolbar of your browser.
 
-Here's the bookmarklet we offer: <a href="javascript:q=location.href;if(document.getSelection){d=document.getSelection();}else{d='';};p=document.title;void(open('https://savenowclub.com/timeline/show-form/create-item?url=%27+encodeURIComponent(q)+%27&description=%27+encodeURIComponent(d)+%27&title=%27+encodeURIComponent(p),%27Pinboard%27,%27toolbar=no,width=550,height=400%27));">popup</a> opens a little form window when you want to save a page. It's the fastest way to add content from a web URL.
+Here's the bookmarklet we offer: <a href="javascript:q=location.href;if(document.getSelection){d=document.getSelection();}else{d='';};p=document.title;void(open('https://savenowclub.com/timeline/submit?url=%27+encodeURIComponent(q)+%27&description=%27+encodeURIComponent(d)+%27&title=%27+encodeURIComponent(p),%27Pinboard%27,%27toolbar=no,width=550,height=400%27));">popup</a> opens a little form window when you want to save a page. It's the fastest way to add content from a web URL.
 
 How to Install and Use Bookmarklet: if you need help to install and/or use our bookmarklet, please refer [this guide](https://www.howtogeek.com/189358/beginner-geek-how-to-use-bookmarklets-on-any-device/).
 
