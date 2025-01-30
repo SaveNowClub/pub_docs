@@ -10,8 +10,8 @@ The website [SaveNowClub](https://savenowclub.com) was officially launched in 20
 
 [Timeline](/timeline) is a tool that helps people to manage knowledge base with the vision of adding knowledge in any form with one click and empowering user to quickly absorb and organize the added knowledge.  As of October 2024, the tool solves the problems of enabling user to add link or content with one click to knowledge base and organizing saved contents under user-defined topics.  The tool allows users to
 
-1. [quickly save articles](/docs/2889/howto-timeline-of-uncertainties#use-bookmarklet-to-quickly-save-timeline-item) that are relevant to the uncertainty you care about; 
-1. [quickly categorize saved articles](/docs/2889/howto-timeline-of-uncertainties#use-parent-chooser-to-quickly-organize-saved-timeline-item) under relevant uncertainty/theme; 
+1. [quickly save articles](/docs/2889/howto-timeline#how-to-use-bookmarklet) that are relevant to the uncertainty you care about; 
+1. [quickly categorize saved articles](/docs/2889/howto-timeline#how-to-use-parent-chooser) under relevant uncertainty/theme; 
 1. saved articles are presented to you in timeline fashion under relevant uncertainty;
 
 ## Price Research Tools
@@ -31,3 +31,33 @@ SaveNowClub was founded by a software engineer who makes a living working for an
 # Contact Us
 
 Please send your questions or comments to <a href="mailto: savenowclub@gmail.com">savenowclub@gmail.com</a>
+
+# 关于我们
+
+网站 [SaveNowClub](https://savenowclub.com) 于 2020 年正式上线，这是我们前几年多次转型和产品发布的结果。从那时起，我们又进行了几次转型，最终推出了两个主要的在线工具：时间线和价格研究工具。以下是 SaveNowClub.com 提供的一些软件工具：
+
+## 时间线
+
+[时间线](/timeline) 是一种帮助人们管理知识库的工具，其愿景是一键添加任何形式的知识，并让用户能够快速吸收和组织添加的知识。截至 2024 年 10 月，该工具解决了让用户一键向知识库添加链接或内容以及在用户定义的主题下组织已保存内容的问题。该工具允许用户
+
+1. [快速保存与您关心的不确定性相关的文章](/docs/2889/howto-timeline#_2)；
+1. [快速将已保存的文章归类为相关不确定性/主题下的文章](/docs/2889/howto-timeline#_3)；
+1. 已保存的文章以时间线方式呈现在相关不确定性下；
+
+## 价格研究工具
+
+SaveNowClub 还提供了许多工具来帮助买家研究您的购买目标的价格，包括
+
+* [愿望](/docs/2371/tutorial-buying-groups-and-price-records#what-is-wish) 是用户创建的网页，发布用户以某些期望条款购买产品/服务（[愿望物品](/docs/2371/tutorial-buying-groups-and-price-records#what-is-wished-item)）的意图。
+* [价格记录](/docs/2371/tutorial-buying-projects-and-price-records#what-is-price-record) 是卖家为产品或服务（愿望物品）提供的价格记录，它们是人们在研究他们所希望的物品的价格时寻找的。
+* [价格计算器](/web/ttl-otd-price-converter) 帮助车辆买家/卖家只需点击几下即可将 TTL（税前所有权和许可证）价格转换为 OTD（出门价）或反之亦然。
+
+有关更新的功能发布，请参阅我们的 [博客](http://blog.savenowclub.com/)
+
+# 我们是谁
+
+SaveNowClub 是由一位软件工程师创立的，他为大型企业的分析团队工作，个人对预测未来的科学和艺术充满热情。
+
+# 联系我们
+
+请将您的问题或意见发送至 <a href="mailto: savenowclub@gmail.com">savenowclub@gmail.com</a>
