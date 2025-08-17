@@ -10,8 +10,8 @@ The website [SaveNowClub](https://savenowclub.com) was officially launched in 20
 
 [Notes](/notes) (renamed from Timeline in August 2025) is a tool that helps people to manage knowledge base with the vision of adding knowledge in any form with one click and empowering user to quickly absorb and organize the added knowledge.  As of October 2024, the tool solves the problems of enabling user to add link or content with one click to knowledge base and organizing saved contents under user-defined topics.  The tool allows users to
 
-1. [quickly save articles](/docs/2889/howto-timeline#how-to-use-bookmarklet) that are relevant to the topics you care about; 
-1. [quickly categorize saved articles](/docs/2889/howto-timeline#how-to-use-parent-chooser) under relevant topics/themes; 
+1. [quickly save articles](/docs/2889/howto-notes#how-to-use-bookmarklet) that are relevant to the topics you care about; 
+1. [quickly categorize saved articles](/docs/2889/howto-notes#how-to-use-parent-chooser) under relevant topics/themes; 
 1. saved articles are presented to you in timeline fashion under relevant topic;
 
 As of August 2025, [**User Submitted Links**](/links), another powerful note-taking feature, was released.  Please see this [blog post](http://blog.savenowclub.com/2025/08/user-submitted-links-feature-released.html) to learn more details.  This feature allows users to save links and any thoughts even faster, it brings convenience of taking notes and recording random thoughts after reading to next level.
@@ -42,8 +42,8 @@ Please send your questions or comments to <a href="mailto: savenowclub@gmail.com
 
 [笔记](/notes) 是一种帮助人们管理知识库的工具，其愿景是一键添加任何形式的知识，并让用户能够快速吸收和组织添加的知识。截至 2024 年 10 月，该工具解决了让用户一键向知识库添加链接或内容以及在用户定义的主题下组织已保存内容的问题。该工具允许用户
 
-1. [快速保存文章](/docs/2889/howto-timeline#_2)；
-1. [快速将已保存的文章归类到某主题下](/docs/2889/howto-timeline#_3)；
+1. [快速保存文章](/docs/2889/howto-notes#_2)；
+1. [快速将已保存的文章归类到某主题下](/docs/2889/howto-notes#_3)；
 1. 已保存的文章以时间线方式呈现在相关主题下；
 
 2025 年 8 月，我们发布了另一项强大的笔记功能[**用户提交链接**](/links)。请参阅这篇[博客文章](http://blog.savenowclub.com/2025/08/user-submitted-links-feature-released.html)了解更多详情。此功能让用户能够更快地保存链接和任何想法，将留存和整理归类笔记和阅读后随想的便捷性提升到一个新的高度。

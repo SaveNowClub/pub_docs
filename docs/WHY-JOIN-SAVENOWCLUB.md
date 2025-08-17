@@ -8,11 +8,11 @@ In the age of Artificial Intelligence, you need an AI-enabled tool to help manag
 
 ## One-Click Add Content
 
-Quickly build timeline of facts / predictions under certain topic by saving web articles from any source you have access to using [bookmarklet](/docs/2889/howto-timeline#how-to-use-bookmarklet).  
+Quickly build timeline of facts / predictions under certain topic by saving web articles from any source you have access to using [bookmarklet](/docs/2889/howto-notes#how-to-use-bookmarklet).  
 
 ## Organized by Topics
 
-Organize your knowledge base contents under topics you care about using [parent chooser](/docs/2889/howto-timeline#how-to-use-parent-chooser) so that saved contents in your knowledge base is well organized and can be easily retrieved later when you need it.
+Organize your knowledge base contents under topics you care about using [parent chooser](/docs/2889/howto-notes#how-to-use-parent-chooser) so that saved contents in your knowledge base is well organized and can be easily retrieved later when you need it.
 
 ## Full Text Archived
 
