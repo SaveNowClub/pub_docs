@@ -31,6 +31,11 @@ Only the owner of note or site admin is allowed to change parent topic for the n
 
 <img src="[CDN_HOST]/2889/434b805f-a959-4f28-a7f6-d7d465b4187f.png" title="parent-chooser-open.png" style="max-width:100%">
 
+# Refund Policy for Paid Notes
+
+We currently do not offer refunds for paid notes.
+All sales are final. There are no refunds whatsoever.  We do not give prorated refunds.  If you have any questions whatsoever, please feel free to contact us at <a href="mailto:savenowclub@gmail.com">savenowclub@gmail.com</a>.
+
 # How to Track Predictor Performance
 
 SaveNowClub Notes allows you to track performance of any predictor by adding predictions as parts of note text and later validate them by adding facts as separate notes.
