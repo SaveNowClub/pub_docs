@@ -90,10 +90,11 @@ Only the owner of note or site admin is allowed to change parent topic for the n
 
 ## Privacy Control
 
-- **Public**: Visible to all SaveNowClub users
-- **Private**: Only visible to you
-- **Paid**: Available for purchase in our marketplace
-- **Mixed**: Combine public and private sections within the same note
+The following features are available for every note on SaveNowClub:
+
+- **Public Content**: Visible to all SaveNowClub users, may be used as marketing material to attract buyers for your Paid Note.
+- **Private Note**: Only visible to you or its buyers.
+    - **For Sale**: Check this option, then your private note will be listed for sale at the price set by you.
 
 # 4. Paid Notes Marketplace
 
@@ -230,10 +231,11 @@ All sales are final. There are no refunds whatsoever.  We do not give prorated r
 
 ## 隐私控制
 
-- **公开**：所有 SaveNowClub 用户可见
-- **私密**：仅您自己可见
-- **付费**：可在我们的市场中购买
-- **混合**：在同一笔记中结合公开和私密部分
+SaveNowClub 上的每条笔记均提供以下功能：
+
+- **公开内容**：所有 SaveNowClub 用户可见，可用作营销材料，吸引买家购买您的付费笔记。
+- **私人笔记**：仅您或买家可见。
+    - **待售**：勾选此选项，您的私人笔记将以您设定的价格出售。
 
 # 4. 付费笔记市场
 
