@@ -1,27 +1,84 @@
 [TOC]
 
-# How To Use Notes
+# How to Use SaveNowClub: Your Guide to Notes & Links
 
-[Notes](/notes) is a web-based tool that helps you manage knowledge bases by organizing your bookmarks and notes as answers to questions you care about.  Like other bookmarking sites such as [Pinboard](https://pinboard.in/about/), Instapaper, and Pocket etc., Notes adds a [small button](#how-to-use-bookmarklet) to your browser that lets you remember things you read, giving you the chance to label them with tags and descriptive text. 
+**Getting Started with Your Knowledge Base**
 
-Other than common bookmarking site features, SaveNowClub Notes offers the following unique features:
+Welcome to SaveNowClub! This guide will help you master our platform and build your ultimate knowledge management system.
 
-* SaveNowClub Notes allow you to organize your bookmarks and notes as answers to  questions or posts under topics.  There are a lot more notes than number of questions/topics because questions/topics are relatively high-level because they represent major areas of your attention at certain time.  In addition to using hashtags, your saved bookmarks or notes can be found by finding the question it answers or the topic it relates to. Users manage topics for notes using [parent chooser](#how-to-use-parent-chooser) tool.
-* SaveNowClub Notes allows you to see track records of a predictor by [using facts to validate predictions](#how-to-track-predictor-performance). 
+# 1. Getting Started
 
-# How to Use Bookmarklet
+- **Create Your Account**: Visit SaveNowClub.com and [sign up](/signup) for free
+- **Install Browser [Bookmarklet](#how-to-use-bookmarklet)**
 
-SaveNowClub uses bookmarklets for bookmarking web content. Bookmarklets are little javascript links that live in the bookmarks toolbar of your browser.
+# 2. Two Ways to Save Content
 
-Here's the bookmarklet we offer: <a href="javascript:q=location.href;if(document.getSelection){d=document.getSelection();}else{d='';};p=document.title;void(open('https://savenowclub.com/notes/submit?url=%27+encodeURIComponent(q)+%27&description=%27+encodeURIComponent(d)+%27&title=%27+encodeURIComponent(p),%27Pinboard%27,%27toolbar=no,width=550,height=400%27));">popup</a> opens a little form window when you want to save a page. It's the fastest way to add content from a web URL.
+## A. Using SaveNowClub Notes
 
-How to Install and Use Bookmarklet: if you need help to install and/or use our bookmarklet, please refer [this guide](https://www.howtogeek.com/189358/beginner-geek-how-to-use-bookmarklets-on-any-device/).
+*Perfect for structured, detailed information*
 
-## Issue with Bookmarklet on Android Chrome
+1. **Create a New Note**
+    - Click [Submit](/notes/submit) or use the [bookmarklet](#how-to-use-bookmarklet)
+    - Add a descriptive title (required)
+    - Write your content in the main editor
+    - Optional: Include source URL
+2. **Enhanced Features**
+    - **Save Full Text**: Fill out "Full Text for External Link" form to preserve the complete text from any linked source
+    - **Categorize**: Add existing topics or create new ones
+    - **Set Privacy**: Pick and Choose different content for Public Content, Private Note and whether list Private Note for sale.
+    - **Add Tags**: Use hashtag(#) with relevant keywords in Public Content and/or Private Note for better searchability.
+3. **Example Use Cases**
+    - Research papers with full source preservation
+    - Detailed project plans with reference materials
+    - Comprehensive analysis pieces
 
-This bookmarklet has been tested working on Chrome browser on PC, Mac and iPhone.  On Chrome browser on an Android phone, clicking this bookmarklet may not open up popup form, if that happens, use the method in [this tutorial](https://paul.kinlan.me/use-bookmarklets-on-chrome-on-android/) can solve that problem. 
+## B. Using SaveNowClub Links
 
-# How to Use Parent Chooser
+*Perfect for quick capture and processing later*
+
+1. **Save a Link**
+    - Click [Add Link](/notes/submit?mode=simple) or use the [bookmarklet](#using-bookmarklet-to-add-link)
+    - Paste or type the URL
+    - Add quick thoughts or context
+    - Assign to relevant topics using [parent chooser](#topic-management)
+2. **Automatic Processing**
+    - Our Link Crawler automatically:
+        - Extracts page title and metadata
+        - Saves full text content (if enabled)
+        - Converts to a full Note within 24 hours
+    - You receive notifications when conversion is complete (planned  as of October 2025)
+3. **Example Use Cases**
+    - Article reading list
+    - Quick resource gathering
+    - Temporary research notes
+
+# 3. Advanced Features
+
+## How to Use Bookmarklet
+
+Bookmarklets are little javascript links that live in the bookmarks toolbar of your browser.
+
+Here's the bookmarklet we offer, to install it, simply drag this button to your Bookmarks bar.  Drag and drop works for PC-based browser only, to install it on a mobile device browser, you will need to [install it manually](#install-bookmarklet-manually).  If you need help to install and/or use our bookmarklet, please refer [this guide](https://www.howtogeek.com/189358/beginner-geek-how-to-use-bookmarklets-on-any-device/). 
+
+<a class="btn btn-primary" href="javascript:q=location.href;if(document.getSelection){d=document.getSelection();}else{d='';};p=document.title;void(open('https://savenowclub.com/notes/submit?url=%27+encodeURIComponent(q)+%27&description=%27+encodeURIComponent(d)+%27&title=%27+encodeURIComponent(p),%27SaveNowClub%27,%27toolbar=no,width=550,height=400%27));">SaveNow</a> 
+
+After install, when you visit any web page, simply clicking on `SaveNow` button on your bookmark bar will open a small browser popup window to prompt you save the current page as a note to SaveNowClub. It's the fastest way to add content from a web URL.
+
+### Install Bookmarklet Manually
+
+You can also install bookmarklets manually. Select the bookmarklet's code and copy it to your clipboard. If the bookmarklet is a link, right-click or long-press the link and copy its address to your clipboard.
+
+Open your browser's bookmarks manager, add a bookmark, and paste the JavaScript code directly into the address box. Give your bookmarklet a name and save it.
+
+### Using Bookmarklet to Add Link
+
+By default, bookmarklet allows you to submit a page you are browsing as a note to SaveNowClub, alternatively, you may submit current page as a link.  Simply open up a Bookmarklet, then click `Submit URL` link on the popup browser window.
+
+### Using Bookmarklet on Android OS
+
+This bookmarklet has been tested working on Chrome browser on PC, Mac and iPhone.  On Chrome browser on an Android phone, clicking this bookmarklet may not open up popup form, if that happens, the method described in [this tutorial](https://paul.kinlan.me/use-bookmarklets-on-chrome-on-android/) can solve that problem. 
+
+## Topic Management
 
 By default, saved notes are at top level. Picking a proper topic for it is a great way to organize the notes under proper theme for later reference.  You may use `Parent Chooser` tool located on each note page to quickly create or pick existing uncertainty for the item.  
 
@@ -31,86 +88,191 @@ Only the owner of note or site admin is allowed to change parent topic for the n
 
 <img src="[CDN_HOST]/2889/434b805f-a959-4f28-a7f6-d7d465b4187f.png" title="parent-chooser-open.png" style="max-width:100%">
 
-# Refund Policy for Paid Notes
+## Privacy Control
+
+- **Public**: Visible to all SaveNowClub users
+- **Private**: Only visible to you
+- **Paid**: Available for purchase in our marketplace
+- **Mixed**: Combine public and private sections within the same note
+
+# 4. Paid Notes Marketplace
+
+## Selling Your Knowledge
+
+1. **Create Valuable Content**: Develop comprehensive notes in your area of expertise
+2. **Set as Paid**: Change note status from Private to Paid
+3. **Set Your Price**: Choose from suggested price points or set custom amounts
+4. **Add Description**: Write compelling copy to attract buyers
+5. **Publish**: Make available in the marketplace
+
+## Buying Knowledge
+
+- Browse marketplace by category
+- Preview note summaries before purchasing
+- One-time payment for lifetime access
+- Rating and review system
+
+## Refund Policy for Paid Notes
 
 We currently do not offer refunds for paid notes.
 All sales are final. There are no refunds whatsoever.  We do not give prorated refunds.  If you have any questions whatsoever, please feel free to contact us at <a href="mailto:savenowclub@gmail.com">savenowclub@gmail.com</a>.
 
-# How to Track Predictor Performance
+# 5. Pro Tips for Success
 
-SaveNowClub Notes allows you to track performance of any predictor by adding predictions as parts of note text and later validate them by adding facts as separate notes.
+**Workflow Optimization**
 
-## Criteria of Predictions
+- Use Links for initial research phase
+- Convert to Notes for detailed analysis
+- Set up topic templates for consistency
+- Use the mobile app for voice notes and quick captures
 
-For content that satisfy the following criteria, it can be classified as `Prediction` type of content:
+**Organization Strategies**
 
-1. predictions with clear target time frame: clear future target time point of predicted event
-2. predictions that are checkable: clear prediction that can be checked by facts
-3. predictions that matter: predicted event must matter to audience
+- Create a consistent topic hierarchy
+- Use tags for cross-referencing
+- Review and reorganize monthly
+- Archive outdated content
 
-Here is [an example](https://finance.creaders.net/2022/06/22/2497071.html) of prediction that does not meet our criteria: 
+**Monetization Best Practices**
 
-> 威尔森（Michael Wilson）在内的摩根士丹利策略师21日表示，标普500指数要跌到2,900点至3,100点，才会更加完全反映在经济衰退期间典型的企业获利萎缩。大摩策略师群表示：“目前看来，根据联准会陷入的通膨处境，经济衰退不再只是个尾部风险。”
+- Identify your unique expertise areas
+- Create comprehensive, actionable content
+- Price competitively based on value
+- Update paid notes regularly
 
-The reason for not meeting our criteria is because it is a conditional statement of future scenario, cannot be proved as true or false by facts; also it is missing a clear target time frame.
+# 如何使用 SaveNowClub：您的笔记与链接使用指南
 
-## Our Approach Evaluating a Prediction
+**开始构建您的知识库**
 
-From perspectives of statistics and data, predictions of future events are in the forms of probability, this fact makes it hard to evaluate quality of a prediction since a historical event happens only once, you have no chance to calculate actual probability of an event and compare that with the predicted probability.
+欢迎使用 SaveNowClub！本指南将帮助您掌握我们的平台，构建您终极的知识管理系统。
 
-Instead, we use a simplified and a more straight-forward approach to evaluate prediction accuracy.  We view prediction as one non-random direction pointed out by predictors, after target time of predicted events has been reached, we compare actual fact against original prediction, if they match, then we rate the prediction as `hit`, otherwise, it's rated as `miss`.
+# 1. 快速开始
 
-# 如何使用时间线
+- **创建账户**：访问 SaveNowClub.com 免费[注册](/signup)
+- **安装浏览器[书签小工具](#how-to-use-bookmarklet)**
 
-时间线是一个基于网络的工具，它可以帮助您管理知识库，将您的书签和笔记整理为您关心的问题的答案。与其他书签网站（如 [Pinboard](https://pinboard.in/about/)、Instapaper 和 Pocket 等）一样，时间线会向您的浏览器添加一个 [小按钮](#如何使用书签小工具)，让您记住您阅读的内容，让您有机会用标签和描述性文字标记它们。
+# 2. 两种保存内容的方式
 
-除了常见的书签网站功能外，SaveNowClub 时间线还提供以下独特功能：
+## A. 使用 SaveNowClub 笔记
 
-* SaveNowClub 时间线允许您将书签和笔记（时间线项目）整理为问题的答案或主题下的帖子。时间线项目的数量比问题/主题的数量多得多，因为问题/主题相对较高，因为它们代表了您在特定时间关注的主要领域。除了使用主题标签外，您还可以通过查找其回答的问题或与之相关的主题来找到您保存的书签或笔记。用户使用 [归类选择器](#如何使用归类选择器) 工具管理时间线项目的主题。
-* SaveNowClub 时间线允许您通过 [使用事实来验证预测](#how-to-track-predictor-performance) 查看预测器的跟踪记录。
+*适合结构化的详细信息*
 
-# 如何使用书签小工具
+1. **创建新笔记**
+    - 从仪表板点击"[新建笔记](/notes/submit)"
+    - 添加描述性标题（必需）
+    - 在主编辑器中编写内容
+    - 可选：包含来源网址
+2. **增强功能**
+    - **保存全文**：切换"保存页面内容"以保留链接来源的完整文本
+    - **分类管理**：添加现有主题或创建新主题
+    - **设置隐私**：选择公开、私密或付费状态
+    - **添加标签**：使用相关关键词提高可搜索性
+3. **使用示例**
+    - 包含完整来源保存的研究论文
+    - 带有参考资料的详细项目计划
+    - 全面的分析文章
 
-SaveNowClub 使用书签小工具为网络内容添加书签。书签小工具是浏览器书签工具栏中的小型 JavaScript 链接。
+## B. 使用 SaveNowClub 链接
 
-以下是我们提供的书签小工具：<a href="javascript:q=location.href;if(document.getSelection){d=document.getSelection();}else{d='';};p=document.title;void(open('https://savenowclub.com/notes/submit?url=%27+encodeURIComponent(q)+%27&description=%27+encodeURIComponent(d)+%27&title=%27+encodeURIComponent(p),%27Pinboard%27,%27toolbar=no,width=550,height=400%27));">popup</a> 在您想要保存页面时打开一个小表单窗口。这是从 Web URL 添加内容的最快方法。
+*适合快速捕获并稍后处理*
 
-如何安装和使用书签小工具：如果您需要帮助来安装和/或使用我们的书签小工具，请参阅[本指南](https://www.howtogeek.com/189358/beginner-geek-how-to-use-bookmarklets-on-any-device/)。
+1. **保存链接**
+    - 点击"新建链接"或使用[书签小工具](#how-to-use-bookmarklet)
+    - 粘贴或输入网址
+    - 添加快捷想法或上下文
+    - 分配到相关主题
+2. **自动处理**
+    - 我们的链接爬虫自动：
+        - 提取页面标题和元数据
+        - 保存全文内容（如启用）
+        - 在24小时内转换为完整笔记
+    - 转换完成时您会收到通知（计划中功能截至2025年10月）
+3. **使用示例**
+    - 文章阅读清单
+    - 快速资源收集
+    - 临时研究笔记
 
-## Android Chrome 上的书签小工具问题
+# 3. 高级功能
 
-此书签小工具已在 PC、Mac 和 iPhone 上的 Chrome 浏览器上进行了测试。在 Android 手机上的 Chrome 浏览器上，单击此书签小工具可能不会打开弹出表单，如果发生这种情况，请使用[本教程](https://paul.kinlan.me/use-bookmarklets-on-chrome-on-android/)中的方法解决该问题。
+## 如何使用书签小工具
 
-# 如何使用归类选择器
+书签小工具是浏览器书签工具栏中的小型 JavaScript 链接。
 
-默认情况下，保存的时间线项目位于顶层。为其选择适当的不确定性是将时间线项目组织在适当主题下以供以后参考的好方法。您可以使用位于每个时间线项目页面上的“归类选择器”工具快速创建或选择项目的现有不确定性。
+这是我们提供的书签小工具，只需将此按钮拖到您的书签栏即可安装。拖放功能仅适用于 PC 浏览器，如需在移动设备浏览器上安装，则需要[手动安装](#install-bookmarklet-manually)。如果您需要安装和/或使用我们的书签工具的帮助，请参阅[本指南](https://www.howtogeek.com/189358/beginner-geek-how-to-use-bookmarklets-on-any-device/)。
 
-如下面的屏幕截图所示，您可以通过输入不确定性标题中任何地方出现的任何单词来快速找到现有的不确定性。
+<a class="btn btn-primary" href="javascript:q=location.href;if(document.getSelection){d=document.getSelection();}else{d='';};p=document.title;void(open('https://savenowclub.com/notes/submit?url=%27+encodeURIComponent(q)+%27&description=%27+encodeURIComponent(d)+%27&title=%27+encodeURIComponent(p),%27SaveNowClub%27,%27toolbar=no,width=550,height=400%27));">立存</a>
 
-只有时间线项目所有者和站点管理员才允许更改时间线项目的父不确定性，因此您和站点管理员有权访问您拥有的时间线项目的工具。
+安装后，当您访问任何网页时，只需点击书签栏上的“立存”按钮，即可打开一个小的浏览器弹出窗口，提示您将当前页面保存为向 SaveNowClub 添加备注。这是从网址添加内容的最快方法。
+
+### 手动安装书签小工具
+
+您也可以手动安装书签。选择书签代码并将其复制到剪贴板。如果书签是链接，请右键单击或长按该链接，然后将其地址复制到剪贴板。
+
+打开浏览器的书签管理器，添加书签，然后将 JavaScript 代码直接粘贴到地址栏中。为您的书签命名并保存。
+
+### 使用书签小工具添加链接
+
+默认情况下，书签小工具允许您将正在浏览的页面作为**笔记**提交给 SaveNowClub，或者，您也可以将当前页面作为**链接**提交。只需打开书签，然后点击弹出浏览器窗口中的“提交网址”链接即可。
+
+### 在 Android 操作系统上使用书签小工具
+
+此书签已在 PC、Mac 和 iPhone 上的 Chrome 浏览器上测试通过。在 Android 手机的 Chrome 浏览器上，点击此书签小程序可能无法弹出弹出窗口。如果出现这种情况，请参考[本教程](https://paul.kinlan.me/use-bookmarklets-on-chrome-on-android/)中描述的方法。
+
+## 主题管理
+
+默认情况下，已保存的笔记位于顶层。为其选择合适的主题是将笔记组织到合适的主题下以供日后参考的好方法。您可以使用每个笔记页面上的“父级选择器”工具快速创建或选择该项目的现有不确定性。
+
+如下图所示，您可以通过输入不确定性标题中出现的任意单词来快速查找现有的不确定性。
+
+只有笔记所有者或网站管理员才有权更改笔记的父级主题，因此您和网站管理员有权访问您拥有的笔记的工具。
 
 <img src="[CDN_HOST]/2889/434b805f-a959-4f28-a7f6-d7d465b4187f.png" title="parent-chooser-open.png" style="max-width:100%">
 
-# 如何跟踪预测器性能
+## 隐私控制
 
-SaveNowClub 时间线允许您通过将预测添加为时间线项目（书签或注释）的一部分来跟踪任何预测器的性能，然后通过将事实添加为单独的时间线项目来验证它们。
+- **公开**：所有 SaveNowClub 用户可见
+- **私密**：仅您自己可见
+- **付费**：可在我们的市场中购买
+- **混合**：在同一笔记中结合公开和私密部分
 
-## 预测标准
+# 4. 付费笔记市场
 
-对于满足以下条件的内容，可以将其归类为“预测”类型的内容：
+## 销售您的知识
 
-1. 具有明确目标时间范围的预测：明确预测事件的未来目标时间点
-2.可检验的预测：明确的预测，可以用事实来检验
-3. 重要的预测：预测的事件必须对观众重要
+1. **创造有价值内容**：在您的专业领域开发全面的笔记
+2. **设置为付费**：将笔记状态从私密改为付费
+3. **设定价格**：从建议价格点选择或设置自定义金额
+4. **添加描述**：编写有吸引力的文案吸引买家
+5. **发布**：在市场中提供
 
-这是不符合我们标准的预测的[示例](https://finance.creaders.net/2022/06/22/2497071.html)：
+## 购买知识
 
->威尔森（Michael Wilson）的摩根士丹利策略师21日表示，标普500指数要跌至2,900点至3,100点，才会更加反映在经济繁荣期间典型的企业利润萎缩。大摩策略师群表示：“目前看来，根据联准会的通膨增长，经济繁荣不再只是个尾部风险。”
+- 按分类浏览市场
+- 购买前预览笔记摘要
+- 一次性支付获得终身访问权
+- 评分和评价系统
 
-不符合我们的标准的原因是因为它是对未来的条件陈述场景，无法用事实证明其真假；而且它缺少明确的目标时间框架。
+## 付费笔记退款政策
 
-## 我们评估预测的方法
+我们目前不提供付费笔记退款服务。 所有销售均为最终决定，不提供任何退款。我们不提供按比例退款。如有任何疑问，请随时通过 <a href="mailto:savenowclub@gmail.com">savenowclub@gmail.com</a> 联系我们。
 
-从统计和数据的角度来看，对未来事件的预测是以概率的形式出现的，这一事实使得很难评估预测的质量，因为历史事件只发生一次，你没有机会计算事件的实际概率并将其与预测概率进行比较。
+# 5. 成功专业技巧
 
-相反，我们使用一种简化且更直接的方法来评估预测准确性。我们将预测视为预测器指出的一个非随机方向，在达到预测事件的目标时间后，我们将实际情况与原始预测进行比较，如果它们匹配，则我们将预测评为`命中`，否则，将其评为`未命中`。
+**工作流程优化**
+- 在研究阶段使用链接
+- 转换为笔记进行详细分析
+- 设置主题模板保持一致性
+- 使用移动应用进行语音笔记和快速捕获
+
+**组织策略**
+- 创建一致的主题层次结构
+- 使用标签进行交叉引用
+- 每月审查和重组
+- 归档过时内容
+
+**变现最佳实践**
+- 确定您的独特专业领域
+- 创建全面、可操作的内容
+- 基于价值进行竞争性定价
+- 定期更新付费笔记
+
