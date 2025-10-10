@@ -51,7 +51,10 @@ Both Notes and Links are powered by a suite of features designed to give you ult
 
 *   **One-Click Save Bookmarklet**: ([how to use](/docs/2889/howto-notes#how-to-use-bookmarklet)) Our browser bookmarklet lets you capture Notes and Links from anywhere on the web without interrupting your browsing flow.
 *   **Granular Public/Private Control** ([how to use](/docs/2889/howto-notes#privacy-control)): You are the curator of your knowledge. Share brilliant insights publicly to build your reputation while keeping raw drafts and sensitive research private. You decide what the world sees, note-by-note.
-*   **Paid Notes™: Monetize Your Knowledge** ([how to use](/docs/2889/howto-notes#4-paid-notes-marketplace)):  This is where we redefine the value of your intellect. Our **Paid Notes** feature allows you to list any of your **private notes for sale** in our marketplace. Have an in-depth guide, a unique analysis, or a valuable dataset? Set your price and earn directly from your expertise. Your knowledge base becomes a revenue stream.
+
+### Paid Notes™, Monetize Your Knowledge
+
+This is where we redefine the value of your intellect. Our **Paid Notes** feature ([how to use](/docs/2889/howto-notes#4-paid-notes-marketplace)) allows you to list any of your **private notes for sale** in our marketplace. Have an in-depth guide, a unique analysis, or a valuable dataset? Set your price and earn directly from your expertise. Your knowledge base becomes a revenue stream.
 
 ---
 
@@ -143,7 +146,10 @@ SaveNowClub 提供两种无缝的入口点来构建您的知识库，并在一�
 
 *   **一键保存书签小工具** （[如何使用](/docs/2889/howto-notes#_1)）：我们的浏览器书签小工具让您可以在网络上的任何地方捕获笔记和链接，而不会中断您的浏览流程。
 *   **精细的公开/私密控制**（[如何使用](/docs/2889/howto-notes#_5)）：您是知识的策展人。公开分享精彩的见解以建立您的声誉，同时将草稿和敏感研究保持私密。您逐条决定世界可以看到什么。
-*   **付费笔记™：将知识变现**（[如何使用](/docs/2889/howto-notes#4)）：这是我们重新定义您智力价值的地方。我们的**付费笔记**功能允许您在我们的市场中列出任何您想要出售的**私密笔记**。拥有深入的指南、独特的分析或有价值的数据集？设定您的价格并直接从您的专业知识中获利。您的知识库变成了收入来源。
+
+### 付费笔记™：将知识变现
+
+这是我们重新定义您智力价值的地方。我们的**付费笔记**功能（[如何使用](/docs/2889/howto-notes#4)）允许您在我们的市场中列出任何您想要出售的**私密笔记**。拥有深入的指南、独特的分析或有价值的数据集？设定您的价格并直接从您的专业知识中获利。您的知识库变成了收入来源。
 
 ---
 

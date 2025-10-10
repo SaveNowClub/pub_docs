@@ -58,7 +58,7 @@ You're busy doing important work. SaveNowClub eliminates friction at every step:
 
 While other tools help you store information, SaveNowClub helps you capitalize on it.
 
-**The Paid Notes Advantage:**
+**The [Paid Notes](/docs/2375/about-savenowclub#paid-notestm-monetize-your-knowledge) Advantage:**
 
 * Monetize the expertise you're already building naturally
 * Create once, sell multiple times
@@ -168,7 +168,7 @@ Your future self will thank you.
 
 当其他工具帮助您存储信息时，SaveNowClub 帮助您将其资本化。
 
-**付费笔记的优势：**
+**[付费笔记](/docs/2375/about-savenowclub#tm)的优势：**
   
 * 将您自然积累的专业知识变现
 * 创建一次，多次销售
