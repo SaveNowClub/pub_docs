@@ -8,9 +8,9 @@ The website [SaveNowClub](https://savenowclub.com) was officially launched in 20
 
 # About SaveNowClub Notes
 
-**Welcome to SaveNowClub: Where Your Ideas Organize, Grow, and Pay Off.**
+**Welcome to [SaveNowClub](https://savenowclub.com/notes): Where Your Ideas Organize, Grow, and Pay Off.**
 
-SaveNowClub is a next-generation web-based platform designed for thinkers, learners, creators, and professionals. We go beyond simple note-taking to provide a powerful ecosystem for building your personal knowledge base, sharing your insights, and even monetizing your expertise.
+[SaveNowClub](https://savenowclub.com/notes) is a next-generation web-based platform designed for thinkers, learners, creators, and professionals. We go beyond simple note-taking to provide a powerful ecosystem for building your personal knowledge base, sharing your insights, and even monetizing your expertise.
 
 Our mission is to solve a modern problem: in a world overflowing with information, our most valuable thoughts and discoveries are often lost. SaveNowClub is the antidote—a single, organized home for your digital intellect.
 
