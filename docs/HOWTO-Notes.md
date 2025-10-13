@@ -100,7 +100,7 @@ The following features are available for every note on SaveNowClub:
 
 ## Selling Your Knowledge
 
-For [every note you create](#a-using-savenowclub-notes), you may list **private note** section of the note for sale, the **public content** section of the same note will be used to explain to visitors / potential buyers the reason to buy your private note.
+For [every note you create](#a-using-savenowclub-notes) on [SaveNowClub](https://savenowclub.com), you may list **private note** section of the note for sale, the **public content** section of the same note will be used to explain to visitors / potential buyers the reason to buy your private note.
 
 1. **Create Private Note**: Develop comprehensive notes in your area of expertise
 2. **Set as Paid**: List the private note for sale by check "For Sale" box
