@@ -98,6 +98,8 @@ The following features are available for every note on SaveNowClub:
 
 # 4. Paid Notes Marketplace
 
+For terms of related to our [Paid Notes](/docs/2375/about-savenowclub#paid-notestm-monetize-your-knowledge) service, please refer to [this seciton](/docs/2378/terms-of-services#terms-related-to-paid-notes) in our TOC document.
+
 ## Selling Your Knowledge
 
 For [every note you create](#a-using-savenowclub-notes) on [SaveNowClub](https://savenowclub.com), you may list **private note** section of the note for sale, the **public content** section of the same note will be used to explain to visitors / potential buyers the reason to buy your private note.
@@ -114,7 +116,6 @@ For [every note you create](#a-using-savenowclub-notes) on [SaveNowClub](https:/
 - Preview note summaries before purchasing
 - One-time payment for lifetime access
 - Rating and review system
-
 
 
 # 5. Pro Tips for Success
