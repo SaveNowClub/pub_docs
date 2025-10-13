@@ -115,10 +115,7 @@ For [every note you create](#a-using-savenowclub-notes), you may list **private 
 - One-time payment for lifetime access
 - Rating and review system
 
-## Refund Policy for Paid Notes
 
-We currently do not offer refunds for paid notes.
-All sales are final. There are no refunds whatsoever.  We do not give prorated refunds.  If you have any questions whatsoever, please feel free to contact us at <a href="mailto:savenowclub@gmail.com">savenowclub@gmail.com</a>.
 
 # 5. Pro Tips for Success
 

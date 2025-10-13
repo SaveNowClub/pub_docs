@@ -42,26 +42,51 @@ and how we protect it.
 
 # Terms of Service
 
-last updated Dec. 18th, 2024
+last updated Oct. 12th, 2025
 
-<p>By accessing SaveNowClub website and/or using the services, you accept and agree to be bound by the Terms of Service.</p>
+By accessing SaveNowClub website and/or using the services, you accept and agree to be bound by the Terms of Service.
 
-<b>Privacy Policy</b>
+# Privacy Policy
 
-<p>Please review our <a href="/docs/2377/privacy-policy">Privacy Policy</a> to understand our practices.</p>
+Please review our <a href="/docs/2377/privacy-policy">Privacy Policy</a> to understand our practices.
 
-<b>Services</b>
+# Services
 
-<p>SaveNowClub is a platform that manages and organizes knowledge bases for registered users.</p>
+SaveNowClub is a platform that manages and organizes knowledge bases for registered users.
 
-<b>Right to the Services</b>
+# Terms Related to Paid Notes
 
-<p>SaveNowClub reserves the right to deny the services to anyone for any or no reason. SaveNowClub also reserves the right to modify the services at any time and from time-to-time.</p>
+The following terms are related to [Paid Notes](/docs/2375/about-savenowclub#paid-notestm-monetize-your-knowledge)
 
-<b>Liability Waiver</b>
-<p>SaveNowClub is not liable for any damages of any form as a result of using the website and/or services. Your sole and exclusive remedy for dissatisfaction is to stop using the website and services. </p>
+## What Are Included in Your Purchase of Paid Notes
 
-<b>Intellectual property</b>
+Upon successful purchase of a particular Paid Note on our site, you immediately gain access to the following which was not accessible before the purchase:
 
-<p>You agree that the Services of SaveNowClub is protected by applicable intellectual property, copyrights, trademarks, service marks, patents and/or other proprietary rights and laws in favor of SaveNowClub.</p>
+* The content of Private Note section of the SaveNowClub Note
+* The source URL of the SaveNowClub Note
+
+Your purchase of paid note does not include
+
+* The content of full text section of the SaveNowClub Note
+
+## Disclaimer for Buyers of Paid Notes
+
+No Representation Is Being Made That Any Account Will, Or Is Likely To Achieve Profits Or Losses Similar To Those Discussed Within This Site, Support And Texts. Our Paid Notes Should Be Used As Learning Aids. If You Decide To Invest Real Money, All Trading Decisions Are Your Own. Our Track Record Is From Trades Given To Subscribers In Advance And Are Not Hindsight. The Results May Have Under-Or-Over Compensated For The Impact, If Any, Of Certain Market Factors, Such As Lack Of Liquidity. Hypothetical Or Simulated Performance Results Have Certain Limitations. Unlike An Actual Performance Record, Simulated Results Do Not Represent Actual Trading. The Risk Of Loss In Trading Commodities Can Be Substantial. You Should Therefore Carefully Consider Whether Such Trading Is Suitable For You In Light Of Your Financial Condition.
+
+## Refund Policy for Paid Notes
+
+We currently do not offer refunds for paid notes.
+All sales are final. There are no refunds whatsoever.  We do not give prorated refunds.  If you have any questions whatsoever, please feel free to contact us at <a href="mailto:savenowclub@gmail.com">savenowclub@gmail.com</a>.
+
+# Right to the Services
+
+SaveNowClub reserves the right to deny the services to anyone for any or no reason. SaveNowClub also reserves the right to modify the services at any time and from time-to-time.
+
+# Liability Waiver
+
+SaveNowClub is not liable for any damages of any form as a result of using the website and/or services. Your sole and exclusive remedy for dissatisfaction is to stop using the website and services. 
+
+# Intellectual property
+
+You agree that the Services of SaveNowClub is protected by applicable intellectual property, copyrights, trademarks, service marks, patents and/or other proprietary rights and laws in favor of SaveNowClub.
 
