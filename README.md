@@ -1,5 +1,3 @@
-This repository includes public documents for [SaveNowClub](https://savenowclub.com)
-
 [TOC]
 
 # About Us
@@ -59,7 +57,7 @@ Both Notes and Links are powered by a suite of features designed to give you ult
 
 ### Paid Notes™, Monetize Your Knowledge
 
-This is where we redefine the value of your knowledge and monetize it for you. Our **Paid Notes** feature (view [release note](http://blog.savenowclub.com/2025/09/paid-notes-feature-released.html), learn [how to use](/docs/2889/howto-notes#4-paid-notes-marketplace)) allows you to list any of your **private notes for sale** in our marketplace. Have an in-depth guide, a unique analysis, or a valuable dataset? Set your price and earn directly from your expertise. Your knowledge base becomes a revenue stream.
+As a feature that comes with any [SaveNowClub Note](#1-savenowclub-notes-for-structured-knowledge), **Paid Notes™** is where we redefine the value of your knowledge and monetize it for you. Our **Paid Notes** feature (view [release note](http://blog.savenowclub.com/2025/09/paid-notes-feature-released.html), learn [how to use](/docs/2889/howto-notes#4-paid-notes-marketplace)) allows you to list any of your **private notes for sale** in our marketplace. Have an in-depth guide, a unique analysis, or a valuable dataset? Set your price and earn directly from your expertise. Your knowledge base becomes a revenue stream.
 
 ---
 
