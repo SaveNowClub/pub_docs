@@ -31,12 +31,17 @@ We believe that knowledge isn't just about collecting information; it's about co
 SaveNowClub offers two seamless entry points for building your knowledge base, unified under one powerful system.
 
 ### 1. SaveNowClub Notes: For Structured Knowledge
-When your idea is fully formed, use [**Notes**](/notes) ([how to use](/docs/2889/howto-notes#a-using-savenowclub-notes)). This is your space for deep work and structured thinking.
+When your idea is fully formed, use [**Notes**](/notes) (view [release notes](http://blog.savenowclub.com/2025/10/introducing-savenowclub-notes-with-paid.html), learn [how to use](/docs/2889/howto-notes#a-using-savenowclub-notes)). This is your space for deep work and structured thinking.
 
-*   **Titled & Substantial:** Every note has a title, creating a clean, searchable archive of your work.
-*   **Rich Context:** Add your thoughts and analysis, with or without a source link.
-*   **Permanent Storage:** A key feature—save the **full text of any source link** directly with your note. Never lose critical information to a "404 Not Found" error again.
-*   **Instant Categorization:** File every note under your own user-defined topics (e.g., "Business Ideas," "Research Papers," "Recipe Experiments") to build a logical library of your expertise.
+Any SaveNowClub Note is made up of the following components
+
+*   **Title:** (required) Every note has a title, creating a clean, searchable archive of your work.
+*   **Notes:** (optional) your thoughts and analysis,
+    *  **Public Content:** (optional) this section of your note can be viewed by anybody and publicly available
+    *  **Private Note:** (optional) this section is eligible to be listed for sale as a **[Paid Note](/docs/2375/about-savenowclub#paid-notestm-monetize-your-knowledge)**, and is accessible only to author and its buyers.
+*   **Source URL:** (optional) your note can come with or without a source link.
+*   **Full Text of Source Link:** (optional) content in this section is accessible by the note author only and even Paid Note buyer cannot access it.  This is a key feature that enables permanent storage of source article by saving the **full text of any source link** directly with your note. Never lose critical information to a "404 Not Found" error again.
+*   **Parent Topic:** (required) Instant Categorize and File every note under your own user-defined topics (e.g., "Business Ideas," "Research Papers," "Recipe Experiments") using [Parent Chooser](/docs/2889/howto-notes#topic-management), our Topic Management tool, to build a logical library of your expertise.  
 
 ### 2. SaveNowClub Links: For Instant Inspiration
 For the "save it now, process it later" moments, we created [**Links**](/links) ([how to use](/docs/2889/howto-notes#b-using-savenowclub-links)). It’s bookmarking, supercharged.
@@ -54,7 +59,7 @@ Both Notes and Links are powered by a suite of features designed to give you ult
 
 ### Paid Notes™, Monetize Your Knowledge
 
-This is where we redefine the value of your intellect. Our **Paid Notes** feature ([how to use](/docs/2889/howto-notes#4-paid-notes-marketplace)) allows you to list any of your **private notes for sale** in our marketplace. Have an in-depth guide, a unique analysis, or a valuable dataset? Set your price and earn directly from your expertise. Your knowledge base becomes a revenue stream.
+This is where we redefine the value of your knowledge and monetize it for you. Our **Paid Notes** feature (view [release note](http://blog.savenowclub.com/2025/09/paid-notes-feature-released.html), learn [how to use](/docs/2889/howto-notes#4-paid-notes-marketplace)) allows you to list any of your **private notes for sale** in our marketplace. Have an in-depth guide, a unique analysis, or a valuable dataset? Set your price and earn directly from your expertise. Your knowledge base becomes a revenue stream.
 
 ---
 
