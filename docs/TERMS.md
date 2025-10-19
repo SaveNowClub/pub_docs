@@ -20,14 +20,14 @@ The following terms are related to [Paid Notes](/docs/2375/about-savenowclub#pai
 
 ## What Are Included in Your Purchase of Paid Notes
 
-Upon successful purchase of a particular Paid Note on our site, you immediately gain access to the following which was not accessible before the purchase:
+Upon successful purchase of a particular [Paid Notes](/docs/2375/about-savenowclub#paid-notestm-monetize-your-knowledge) on our site, you immediately gain access to the following which was not accessible before the purchase:
 
 * The content of Private Note section of the [Note](/docs/2375/about-savenowclub#1-savenowclub-notes-for-structured-knowledge)
 * The source URL of the [Note](/docs/2375/about-savenowclub#1-savenowclub-notes-for-structured-knowledge)
 
 Your purchase of paid note does not include
 
-* The content of full text section of the [Note](/docs/2375/about-savenowclub#1-savenowclub-notes-for-structured-knowledge))
+* The content of full text section of the [Note](/docs/2375/about-savenowclub#1-savenowclub-notes-for-structured-knowledge)
 
 ## Disclaimer for Buyers of Paid Notes
 
