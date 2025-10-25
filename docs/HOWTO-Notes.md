@@ -106,9 +106,16 @@ For [every note you create](#a-using-savenowclub-notes) on [SaveNowClub](https:/
 
 1. **Create Private Note**: Develop comprehensive notes in your area of expertise
 2. **Set as Paid**: List the private note for sale by check "For Sale" box
-3. **Set Your Price**: Choose from suggested price points or set custom amounts
+3. **Set Your Price**: Set your own price and receive exact same amount payment when buyers make payment.  For more details, please check [Pricing Structure](#pricing-structure)
 4. **Add Description**: Write compelling reason to attract buyers
 5. **Publish**: Make available in the marketplace
+
+### Pricing Structure
+
+SaveNowClub offers transparent pricing structure for both sellers and buyers of Paid Notes.  The price of each Paid Note is made of 
+
+* Platform Service Fee: this part covers credit card processing fee which runs approximately 3-6% of total amount. 10% of `Price Paid to Author` in the promotional period up to 10/1/2026, and 20% after promotional period ends.
+* Price Paid to Author: this is the amount author of any SaveNowClub Note set in the edit form for the note.  Author will receive this amount via Zelle or PayPal after buyer make a successful payment to purchase the note.
 
 ## Buying Knowledge
 
