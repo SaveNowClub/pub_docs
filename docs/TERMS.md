@@ -18,6 +18,14 @@ SaveNowClub is a platform that manages and organizes knowledge bases for registe
 
 The following terms are related to [Paid Notes](/docs/2375/about-savenowclub#paid-notestm-monetize-your-knowledge)
 
+## Pricing Structure of Paid Notes
+
+SaveNowClub offers transparent pricing structure for both sellers and buyers of Paid Notes.  The price of each Paid Note is made of 
+
+* Platform Service Fee: this part covers credit card processing fee which runs approximately 3-6% of total amount. 10% of `Price Paid to Author` in the promotional period up to 4/1/2026, and 20% after promotional period ends.
+* Price Paid to Author: this is the amount author of any SaveNowClub Note set in the edit form for the note.  Author will receive this amount via Zelle or PayPal after buyer make a successful payment to purchase the note.
+
+
 ## What Are Included in Your Purchase of Paid Notes
 
 Upon successful purchase of a particular [Paid Notes](/docs/2375/about-savenowclub#paid-notestm-monetize-your-knowledge) on our site, you immediately gain access to the following which was not accessible before the purchase:
