@@ -37,7 +37,7 @@ Welcome to SaveNowClub! This guide will help you master our platform and build y
 *Perfect for quick capture and processing later*
 
 1. **Save a Link**
-    - Click [Add Link](/notes/submit?mode=simple) or use the [bookmarklet](#using-bookmarklet-to-add-link)
+    - Click [Add Link](/links/show_form/add_link) or use the [bookmarklet](#using-bookmarklet-to-add-link)
     - Paste or type the URL
     - Add quick thoughts or context
     - Assign to relevant topics using [parent chooser](#topic-management)
